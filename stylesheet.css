@@ -18,6 +18,7 @@ a {
 }
 
 .top-wrapper {
+  height: 800px;
   padding: 180px 0 100px 0;
   background-image: url(https://github.com/honoka-kitamura/honoka-kitamura.github.io/blob/main/top.png?raw=true);
   background-size: cover;
